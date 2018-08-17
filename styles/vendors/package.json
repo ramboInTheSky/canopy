@@ -1,0 +1,29 @@
+{
+  "name": "@_alz/vendor-style",
+  "version": "0.1.0-beta.12",
+  "description": "to encapsulate all global vendor styling",
+  "main": "./lib/dist/index.js",
+  "module": "./lib/esm/index.js",
+  "author": "Alessio Fimognari <alefimo@gmail.com>",
+  "browserslist": [
+    "extends @_alz/browserslist-config"
+  ],
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "clean": "rm -rf ./lib/ && rm -f package-lock.json",
+    "lint": "gulp lint"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "sideEffects": true,
+  "dependencies": {
+    "ag-grid": "18.0.1"
+  },
+  "devDependencies": {
+    "@_alz/babel-preset": "^0.1.0-beta.12",
+    "@_alz/browserslist-config": "^0.1.0-beta.12",
+    "@_alz/tslint-config": "^0.1.0-beta.12"
+  }
+}

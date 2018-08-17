@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "@acadiasoft/tslint-config"
+  ],
+  "rules": {
+    "no-default-export": false
+  }
+}

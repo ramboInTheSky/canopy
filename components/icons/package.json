@@ -1,0 +1,39 @@
+{
+  "name": "@_alz/icons-component",
+  "version": "0.1.0-beta.12",
+  "description": "reusable icons for _alz",
+  "main": "./lib/dist/index.js",
+  "module": "./lib/esm/index.js",
+  "types": "./lib/ts/index.ts",
+  "author": "Alessio Fimognari <alefimo@gmail.com>",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "clean": "rm -rf ./lib/ && rm -f package-lock.json",
+    "lint": "gulp lint"
+  },
+  "babel": {
+    "presets": [
+      "module:@_alz/babel-preset"
+    ]
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "sideEffects": false,
+  "dependencies": {
+    "@fortawesome/fontawesome": "1.2.0-2",
+    "@fortawesome/fontawesome-free-brands": "5.0.13",
+    "@fortawesome/fontawesome-pro-light": "5.0.13",
+    "@fortawesome/fontawesome-pro-regular": "5.0.13",
+    "@fortawesome/fontawesome-pro-solid": "5.0.13",
+    "@fortawesome/fontawesome-svg-core": "1.2.0-11",
+    "@fortawesome/react-fontawesome": "0.1.0-1",
+    "font-awesome": "4.7.0",
+    "react": "16.4.1"
+  },
+  "devDependencies": {
+    "@_alz/babel-preset": "^0.1.0-beta.12",
+    "@_alz/tslint-config": "^0.1.0-beta.12"
+  }
+}

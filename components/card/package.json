@@ -1,0 +1,34 @@
+{
+  "name": "@_alz/card-component",
+  "version": "0.1.0-beta.12",
+  "description": "a reusable card component for _alz",
+  "main": "./lib/dist/index.js",
+  "module": "./lib/esm/index.js",
+  "types": "./lib/ts/index.ts",
+  "author": "Alessio Fimognari <alefimo@gmail.com>",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "clean": "rm -rf ./lib/ && rm -f package-lock.json",
+    "lint": "gulp lint"
+  },
+  "babel": {
+    "presets": [
+      "module:@_alz/babel-preset"
+    ]
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "sideEffects": false,
+  "dependencies": {
+    "@_alz/boxshadow-style": "^0.1.0-beta.12",
+    "@_alz/styled": "^0.1.0-beta.12",
+    "csstype": "2.5.6",
+    "react": "16.4.1"
+  },
+  "devDependencies": {
+    "@_alz/babel-preset": "^0.1.0-beta.12",
+    "@_alz/tslint-config": "^0.1.0-beta.12"
+  }
+}

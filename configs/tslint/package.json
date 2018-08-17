@@ -1,0 +1,21 @@
+{
+  "name": "@_alz/tslint-config",
+  "version": "0.1.0-beta.12",
+  "description": "A tslint config for conistent styling at _alz",
+  "main": "./lib/dist/index.js",
+  "author": "Alessio Fimognari <alefimo@gmail.com>",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "gulp build",
+    "clean": "rm -rf ./lib/ && rm -f package-lock.json"
+  },
+  "dependencies": {
+    "tslint": "5.10.0",
+    "tslint-eslint-rules": "5.3.1",
+    "tslint-microsoft-contrib": "5.0.3",
+    "tslint-react": "3.6.0",
+    "tsutils": "2.26.2"
+  }
+}

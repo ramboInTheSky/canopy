@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@acadiasoft/tslint-config"
+  ]
+}

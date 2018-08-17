@@ -1,0 +1,23 @@
+{
+  "version": "3.0.1",
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "ES2015",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": false,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowUnreachableCode": false,
+    "noUnusedParameters": false,
+    "noUnusedLocals": false,
+    "removeComments": true,
+    "strict": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "noLib": false,
+    "jsx": "react",
+    "allowJs": false,
+    "baseUrl": ""
+  }
+}

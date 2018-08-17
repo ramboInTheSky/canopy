@@ -1,0 +1,185 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3604143, 2018-07-02T16:59:53-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: AvenirLTPro-Light by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-35-light-115678/
+ *
+ * Webfont: AvenirLTPro-LightOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-35-light-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Book by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-45-book-115678/
+ *
+ * Webfont: AvenirLTPro-BookOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-45-book-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Roman by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-55-roman-115678/
+ *
+ * Webfont: AvenirLTPro-Oblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-55-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-65-medium-115678/
+ *
+ * Webfont: AvenirLTPro-MediumOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-65-medium-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Heavy by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-85-heavy-115678/
+ *
+ * Webfont: AvenirLTPro-HeavyOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-85-heavy-oblique-115678/
+ *
+ * Webfont: AvenirLTPro-Black by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-95-black-115678/
+ *
+ * Webfont: AvenirLTPro-BlackOblique by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir/pro-95-black-oblique-115678/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3604143
+ * Licensed pageviews: 15
+ * Webfonts copyright: Copyright &#x00A9; 2014 Monotype GmbH. All rights reserved.
+ *
+ * © 2018 MyFonts Inc
+*/
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 300;
+  font-style: normal;
+  src: url('webfonts/36FEAF_0_0.eot');
+  src: url('webfonts/36FEAF_0_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_0_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_0_0.woff') format('woff'),
+    url('webfonts/36FEAF_0_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 300;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_1_0.eot');
+  src: url('webfonts/36FEAF_1_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_1_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_1_0.woff') format('woff'),
+    url('webfonts/36FEAF_1_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 400;
+  font-style: normal;
+  src: url('webfonts/36FEAF_2_0.eot');
+  src: url('webfonts/36FEAF_2_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_2_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_2_0.woff') format('woff'),
+    url('webfonts/36FEAF_2_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 400;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_3_0.eot');
+  src: url('webfonts/36FEAF_3_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_3_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_3_0.woff') format('woff'),
+    url('webfonts/36FEAF_3_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 500;
+  font-style: normal;
+  src: url('webfonts/36FEAF_4_0.eot');
+  src: url('webfonts/36FEAF_4_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_4_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_4_0.woff') format('woff'),
+    url('webfonts/36FEAF_4_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 500;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_5_0.eot');
+  src: url('webfonts/36FEAF_5_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_5_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_5_0.woff') format('woff'),
+    url('webfonts/36FEAF_5_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 600;
+  font-style: normal;
+  src: url('webfonts/36FEAF_6_0.eot');
+  src: url('webfonts/36FEAF_6_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_6_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_6_0.woff') format('woff'),
+    url('webfonts/36FEAF_6_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 600;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_7_0.eot');
+  src: url('webfonts/36FEAF_7_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_7_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_7_0.woff') format('woff'),
+    url('webfonts/36FEAF_7_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 700;
+  font-style: normal;
+  src: url('webfonts/36FEAF_8_0.eot');
+  src: url('webfonts/36FEAF_8_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_8_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_8_0.woff') format('woff'),
+    url('webfonts/36FEAF_8_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 700;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_9_0.eot');
+  src: url('webfonts/36FEAF_9_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_9_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_9_0.woff') format('woff'),
+    url('webfonts/36FEAF_9_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 900;
+  font-style: normal;
+  src: url('webfonts/36FEAF_A_0.eot');
+  src: url('webfonts/36FEAF_A_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_A_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_A_0.woff') format('woff'),
+    url('webfonts/36FEAF_A_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 900;
+  font-style: oblique;
+  src: url('webfonts/36FEAF_B_0.eot');
+  src: url('webfonts/36FEAF_B_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/36FEAF_B_0.woff2') format('woff2'),
+    url('webfonts/36FEAF_B_0.woff') format('woff'),
+    url('webfonts/36FEAF_B_0.ttf') format('truetype');
+}

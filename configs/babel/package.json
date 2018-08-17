@@ -1,0 +1,24 @@
+{
+  "name": "@_alz/babel-preset",
+  "version": "0.1.0-beta.12",
+  "description": "A babel preset for transforming your JavaScript for _alz",
+  "main": "./lib/dist/index.js",
+  "author": "Alessio Fimognari <alefimo@gmail.com>",
+  "files": [
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "gulp build",
+    "clean": "rm -rf ./lib/ && rm -f package-lock.json"
+  },
+  "dependencies": {
+    "@_alz/browserslist-config": "^0.1.0-beta.12",
+    "@babel/core": "7.0.0-beta.47",
+    "@babel/plugin-proposal-object-rest-spread": "7.0.0-beta.47",
+    "@babel/preset-env": "7.0.0-beta.47",
+    "babel-plugin-emotion": "9.1.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.0.0-beta.47"
+  }
+}

@@ -1,0 +1,20 @@
+export * from './Bars';
+export * from './ChartLine';
+export * from './Circle';
+export * from './Cog';
+export * from './Cogs';
+export * from './Cross';
+export * from './Document';
+export * from './Envelope';
+export * from './Exchange';
+export * from './Notification';
+export * from './PlusSquare';
+export * from './Puzzle';
+export * from './Random';
+export * from './Scale';
+export * from './Search';
+export * from './University';
+export * from './UserCircle';
+export * from './Wifi';
+
+export { IconProps } from './helper';

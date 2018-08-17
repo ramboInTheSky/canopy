@@ -1,0 +1,21 @@
+{
+  "lerna": "3.0.0-beta.21",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "components/*",
+    "configs/*",
+    "fonts/*",
+    "storybooks/*",
+    "styles/*"
+  ],
+  "command": {
+    "publish": {
+      "allowBranch": [
+        "master",
+        "develop"
+      ]
+    }
+  },
+  "version": "0.1.0-beta.12"
+}
